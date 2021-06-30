@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tymzar
+- 👋 Hi, I’m @tymzar, currently working at mBank S.A.
 - 👀 I’m interested in photography, art and enhancing everyone around.
 - 🌱 I’m currently learning ReactJS, Python and to not to throw opportunities :>>
 - 📫 How to reach me: TW: @tymzar, IG: @alwaysdreamt.
